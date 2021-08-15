@@ -1,0 +1,22 @@
+C:\Users\90507\Desktop\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\90507\Desktop\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\90507\Desktop\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\90507\Desktop\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\90507\Desktop\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\90507\Desktop\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\90507\Desktop\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\90507\Desktop\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\90507\Desktop\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\90507\Desktop\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\90507\Desktop\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\90507\Desktop\asp dersleri\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\90507\Desktop\asp dersleri\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\90507\Desktop\asp dersleri\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\90507\Desktop\asp dersleri\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\90507\Desktop\asp dersleri\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\90507\Desktop\asp dersleri\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\90507\Desktop\asp dersleri\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\90507\Desktop\asp dersleri\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\90507\Desktop\asp dersleri\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\90507\Desktop\asp dersleri\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\90507\Desktop\asp dersleri\BootstrapYaz Okulu\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
